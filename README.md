@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/ComputerScientistsPF">
-    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png" width="115" align="absmiddle" alt="Fair Badge">
+    <img src="https://raw.githubusercontent.com/CSKSUProjectFair/logos/main/badge.png" width="115" align="absmiddle" alt="Fair Badge">
   </a>
 
   <h2>🌟 شعار معرض العالمات - KSU</h2>
