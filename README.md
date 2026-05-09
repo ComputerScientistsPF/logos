@@ -1,7 +1,7 @@
 <div align="center" style="display:flex; align-items:center; justify-content:center; gap:12px;">
 
-  <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
-    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/Scientists_Exhibition_logos/main/300px.png" width=300 img/>
+<a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
+    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/Scientists_Exhibition_logos/main/assets/2.png" width="300" /img>
   </a>
 
   <div>
