@@ -11,11 +11,19 @@
 
 
 <div align="center">
-  <h3>
-    Participant &nbsp; | &nbsp;
-    <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
-      <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/100px.png" width="70" alt="شعار معرض العالمات" style="vertical-align: middle; border: 2px solid #2b1b54; border-radius: 10px; padding: 5px;" />
-    </a>
-    &nbsp; | &nbsp; مشارك
-  </h3>
+  <table style="border: 2px solid #48e5e5; border-radius: 10px; background-color: #f8f9fa;">
+    <tr>
+      <td align="center" valign="middle" style="padding: 10px 20px;">
+        <h3 style="margin: 0; color: #2b1b54;">Participant</h3>
+      </td>
+      <td align="center" valign="middle" style="padding: 10px;">
+        <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
+          <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/100px.png" width="70" alt="شعار معرض العالمات" />
+        </a>
+      </td>
+      <td align="center" valign="middle" style="padding: 10px 20px;">
+        <h3 style="margin: 0; color: #2b1b54;">مشارك</h3>
+      </td>
+    </tr>
+  </table>
 </div>
